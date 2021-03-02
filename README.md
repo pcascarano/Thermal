@@ -1,4 +1,4 @@
-# Super-Resolution of Thermal Images using anautomatic Total Variation based method
+## Super-Resolution of Thermal Images using an automatic Total Variation based method
 
 Model-based Single Image SR algorithm applied to Therma Imaging as described in the following paper:
 
